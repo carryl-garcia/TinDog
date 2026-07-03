@@ -1,4 +1,4 @@
 # TinDog
-A tinder for dog
+A tinder for dog landing page.
 
 Bootstrap practice
